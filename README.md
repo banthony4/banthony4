@@ -4,7 +4,8 @@ I'm a recent graduate from the Flatiron School where I gained a strong passion f
 
 ### Connect with me:
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCszseUnnQJoLeqi9VajjFBQ)
-[<a width="26px" href="https://www.linkedin.com/in/ben-anthony-software-engineer/">[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)]</a>]
+<a href="https://www.youtube.com/channel/UCszseUnnQJoLeqi9VajjFBQ">[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]</a>
+[![website](./img/youtube-light.svg)](https://www.linkedin.com/in/ben-anthony-software-engineer)
 
 
 ### Languages and Tools:
