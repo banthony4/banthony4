@@ -4,7 +4,7 @@ I'm a recent graduate from the Flatiron School where I gained a strong passion f
 
 ### Connect with me📫:
 
-<a href="https://www.youtube.com/channel/UCszseUnnQJoLeqi9VajjFBQ"><img alt="youtube" width="40px" src="https://t4.ftcdn.net/jpg/03/04/06/01/360_F_304060171_OUUSKIITlOLRgnDI1EFO8eSZqOHab6Iq.jpg" style="padding-right:10px;" /></a>
+<a href="https://www.youtube.com/channel/UCszseUnnQJoLeqi9VajjFBQ"><img alt="youtube" width="40px" src="https://www.citypng.com/public/uploads/preview/-11594729886ydjileiavn.png" style="padding-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/ben-anthony-software-engineer/"><img alt="linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 <a href="mailto: banthony446@gmail.com"><img alt="email" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="padding-right:10px;" /></a>
 
