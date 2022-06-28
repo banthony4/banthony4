@@ -4,9 +4,8 @@ I'm a recent graduate from the Flatiron School where I gained a strong passion f
 
 ### Connect with me:
 
-<a href="https://www.youtube.com/channel/UCszseUnnQJoLeqi9VajjFBQ">[<img alt="youtube" width="26px" src="https://t4.ftcdn.net/jpg/03/04/06/01/360_F_304060171_OUUSKIITlOLRgnDI1EFO8eSZqOHab6Iq.jpg" style="padding-right:10px;" />]</a>
-
-<a href="https://www.youtube.com/channel/UCszseUnnQJoLeqi9VajjFBQ">[<img alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />]</a>
+<a href="https://www.youtube.com/channel/UCszseUnnQJoLeqi9VajjFBQ"><img alt="youtube" width="26px" src="https://t4.ftcdn.net/jpg/03/04/06/01/360_F_304060171_OUUSKIITlOLRgnDI1EFO8eSZqOHab6Iq.jpg" style="padding-right:10px;" /></a>
+<a href="https://www.youtube.com/channel/UCszseUnnQJoLeqi9VajjFBQ"><img alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 
 
 ### Languages and Tools:
