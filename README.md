@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My Name is Ben!
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 
 <!--
 **banthony4/banthony4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
