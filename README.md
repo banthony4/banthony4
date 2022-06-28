@@ -8,6 +8,15 @@ I'm a recent graduate from the Flatiron School where I gained a strong passion f
 <a href="https://www.linkedin.com/in/ben-anthony-software-engineer/"><img alt="linkedin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /></a>
 <a href="mailto: banthony446@gmail.com"><img alt="email" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="padding-right:10px;" /></a>
 
+### Projects:
+#### Flatiron Medical <a href="https://www.youtube.com/watch?v=ctNgLHVhWgc">DEMO</a> | <a href="https://github.com/banthony4/flatiron-medical">REPO</a>
+🏥 Hospital website with information about its healthcare system and a patient portal system
+
+#### Ruby Vacations <a href="https://www.youtube.com/watch?v=aVphMNKfxBQ">DEMO</a> | <a href="https://github.com/banthony4/ruby-vacations">REPO</a>
+🏡 Vacation site for users to view and book vacation homes around the country
+
+#### UFC Fight Matchup <a href="https://www.youtube.com/watch?v=_eRca3yWVOw">DEMO</a> | <a href="https://github.com/banthony4/ufc-fight-matchup">REPO</a>
+💪 Site for UFC fans to look at rankings, fighter information, and create matchups.
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
