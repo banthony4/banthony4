@@ -1,18 +1,18 @@
-### Hi there 👋 My Name is Ben!
-![alt text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg "Logo Title Text 1")
-          
+# Hi there, I'm Ben!👋 
 
-<!--
-**banthony4/banthony4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate from the Flatiron School where I gained a strong passion for full-stack development. I have a strong proficiency with React.Js, Redux, Ruby on Rails, HTML, and CSS. Passoinate problem solver. I am eager to keep expanding my knowledge of varying tech stacks as well as master the information I have already learned. 
 
-Here are some ideas to get you started:
+### Connect with me:
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCszseUnnQJoLeqi9VajjFBQ)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ben-anthony-software-engineer/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
+
