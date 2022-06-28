@@ -17,7 +17,7 @@ I'm a recent graduate from the Flatiron School where I gained a strong passion f
 🏡 Vacation site for users to view and book vacation homes around the country
 
 #### UFC Fight Matchup <a href="https://www.youtube.com/watch?v=_eRca3yWVOw">DEMO</a> | <a href="https://github.com/banthony4/ufc-fight-matchup">REPO</a>
-💪 Site for UFC fans to look at rankings, fighter information, and create matchups.
+💪 Site for UFC fans to look at rankings, fighter information, and create matchups
 
 
 ### Languages and Tools🔨:
