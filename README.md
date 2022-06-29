@@ -1,6 +1,6 @@
 # Hi there, I'm Ben!👋 
 
-I'm a recent graduate from the Flatiron School where I gained a strong passion for full-stack development. I have a strong proficiency with React.Js, Redux, Ruby on Rails, HTML, and CSS. Passoinate problem solver. I am eager to keep expanding my knowledge of varying tech stacks as well as master the information I have already learned. 
+I'm a recent graduate from the Flatiron School where I gained a strong passion for full-stack development using React.Js and Ruby on Rails. I have a strong proficiency with React.Js, Redux, Ruby on Rails, HTML, and CSS. I'm a passoinate problem solver and always enjoy working with a team. I am eager to keep expanding my knowledge of varying tech stacks as well as master the information I have already learned. Outside of coding you can find me outdoors hiking, swimming, running, skiing or snowboarding and various other activites.
 
 ### Connect with me📫:
 
